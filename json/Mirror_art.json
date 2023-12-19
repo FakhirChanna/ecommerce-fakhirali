@@ -1,0 +1,562 @@
+{
+  
+"item0": {
+  "title": " Reflective Rhapsody",
+  "id": "0",
+  "price": "NaN",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (0).jpg"
+},
+
+
+"item1": {
+  "title": " Mirror Mosaic Marvel",
+  "id": "1",
+  "price": "1257",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (1).jpg"
+},
+
+
+"item2": {
+  "title": " Ethereal Elegance Mirrors",
+  "id": "2",
+  "price": "570",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (2).jpg"
+},
+
+
+"item3": {
+  "title": " Celestial Silver Canvas",
+  "id": "3",
+  "price": "4152",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (3).jpg"
+},
+
+
+"item4": {
+  "title": " Mystic Mirror Melody",
+  "id": "4",
+  "price": "896",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (4).jpg"
+},
+
+
+"item5": {
+  "title": " Infinite Impressions Reflect",
+  "id": "5",
+  "price": "3426",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (5).jpg"
+},
+
+
+"item6": {
+  "title": " Harmony Horizon Mirrors",
+  "id": "6",
+  "price": "2990",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (6).jpg"
+},
+
+
+"item7": {
+  "title": " Whirlwind Wall Mirrors",
+  "id": "7",
+  "price": "3203",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (7).jpg"
+},
+
+
+"item8": {
+  "title": " Serenity Reflections",
+  "id": "8",
+  "price": "5110",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (8).jpg"
+},
+
+
+"item9": {
+  "title": " Radiant Reflections Art",
+  "id": "9",
+  "price": "3775",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (9).jpg"
+},
+
+
+"item10": {
+  "title": " Enigma Essence Mirrors",
+  "id": "10",
+  "price": "1328",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (10).jpg"
+},
+
+
+"item11": {
+  "title": " Gilded Glass Gallery",
+  "id": "11",
+  "price": "3072",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (11).jpg"
+},
+
+
+"item12": {
+  "title": " Timeless Treasures Mirrors",
+  "id": "12",
+  "price": "3388",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (12).jpg"
+},
+
+
+"item13": {
+  "title": " Opulent Overlays Reflect",
+  "id": "13",
+  "price": "3737",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (13).jpg"
+},
+
+
+"item14": {
+  "title": " Kaleidoscope Kanvas",
+  "id": "14",
+  "price": "4672",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (14).jpg"
+},
+
+
+"item15": {
+  "title": " Luminous Layers Mirrors",
+  "id": "15",
+  "price": "2134",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (15).jpg"
+},
+
+
+"item16": {
+  "title": " ZenithZones Reflective Art",
+  "id": "16",
+  "price": "1530",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (16).jpg"
+},
+
+
+"item17": {
+  "title": " Dream Drapes Mirrors",
+  "id": "17",
+  "price": "2849",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (17).jpg"
+},
+
+
+"item18": {
+  "title": " Nimbus Nostalgia Glass",
+  "id": "18",
+  "price": "1443",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (18).jpg"
+},
+
+
+"item19": {
+  "title": " Grandeur Glassworks",
+  "id": "19",
+  "price": "3302",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (19).jpg"
+},
+
+
+"item20": {
+  "title": " Velvet Vistas Mirrors",
+  "id": "20",
+  "price": "3344",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (20).jpg"
+},
+
+
+"item21": {
+  "title": " Symphony Silver Reflect",
+  "id": "21",
+  "price": "1948",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (21).jpg"
+},
+
+
+"item22": {
+  "title": " Chroma Capture Mirrors",
+  "id": "22",
+  "price": "2563",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (22).jpg"
+},
+
+
+"item23": {
+  "title": " Posh Panels Portico",
+  "id": "23",
+  "price": "3115",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (23).jpg"
+},
+
+
+"item24": {
+  "title": " Artisan Allegory Reflect",
+  "id": "24",
+  "price": "5159",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (24).jpg"
+},
+
+
+"item25": {
+  "title": " Celestial Canvases Mirrors",
+  "id": "25",
+  "price": "4357",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (25).jpg"
+},
+
+
+"item26": {
+  "title": " Radiance Ripples Reflect",
+  "id": "26",
+  "price": "4638",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (26).jpg"
+},
+
+
+"item27": {
+  "title": " Elysian Emboss Mirrors",
+  "id": "27",
+  "price": "3850",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (27).jpg"
+},
+
+
+"item28": {
+  "title": " WhisperWaves Wall Mirrors",
+  "id": "28",
+  "price": "4687",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (28).jpg"
+},
+
+
+"item29": {
+  "title": " Oasis Overlays Art",
+  "id": "29",
+  "price": "4279",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (29).jpg"
+},
+
+
+"item30": {
+  "title": " Regal Reflections Mirrors",
+  "id": "30",
+  "price": "1871",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (30).jpg"
+},
+
+
+"item31": {
+  "title": " Tranquil Tapestries Reflect",
+  "id": "31",
+  "price": "2584",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (31).jpg"
+},
+
+
+"item32": {
+  "title": " WhisperWaves Glass Gallery",
+  "id": "32",
+  "price": "1476",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (32).jpg"
+},
+
+
+"item33": {
+  "title": " Radiant Reverie Mirrors",
+  "id": "33",
+  "price": "2998",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (33).jpg"
+},
+
+
+"item34": {
+  "title": " Whimsical Windows Reflect",
+  "id": "34",
+  "price": "2650",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (34).jpg"
+},
+
+
+"item35": {
+  "title": " Mirror Marvel Symphony",
+  "id": "35",
+  "price": "4022",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (35).jpg"
+},
+
+
+"item36": {
+  "title": " Enchantique Edges Glass",
+  "id": "36",
+  "price": "5315",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (36).jpg"
+},
+
+
+"item37": {
+  "title": " Nimbus Nostalgia Mirrors",
+  "id": "37",
+  "price": "5349",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (37).jpg"
+},
+
+
+"item38": {
+  "title": " Symphony Silver Reflect",
+  "id": "38",
+  "price": "2025",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (38).jpg"
+},
+
+
+"item39": {
+  "title": " Urban Utopia Reflect",
+  "id": "39",
+  "price": "2921",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (39).jpg"
+},
+
+
+"item40": {
+  "title": " Chromatic Chorus Mirrors",
+  "id": "40",
+  "price": "2962",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (40).jpg"
+},
+
+
+"item41": {
+  "title": " Celestial Silver Symphony",
+  "id": "41",
+  "price": "1939",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (41).jpg"
+},
+
+
+"item42": {
+  "title": " VelvetVerve Visionary",
+  "id": "42",
+  "price": "2418",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (42).jpg"
+},
+
+
+"item43": {
+  "title": " Enigma Essence Mirrors",
+  "id": "43",
+  "price": "3402",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (43).jpg"
+},
+
+
+"item44": {
+  "title": " Mosaic Melody Mirrors",
+  "id": "44",
+  "price": "3091",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (44).jpg"
+},
+
+
+"item45": {
+  "title": " Elysian Echo Mirrors",
+  "id": "45",
+  "price": "4706",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (45).jpg"
+},
+
+
+"item46": {
+  "title": " Opulent Overlays Reflect",
+  "id": "46",
+  "price": "4284",
+  "author": "NOZTI",
+  "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+  "authorid" : "2",
+  "thumbnail": "MirrorArt (46).jpg"
+},
+
+
+"item47": {
+  "title": " Gilded Glass Gallery",
+  "id": "47",
+  "price": "2347",
+  "author": "designer touch",
+  "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+  "authorid" : "4",
+  "thumbnail": "MirrorArt (47).jpg"
+},
+
+
+"item48": {
+  "title": " Celestial Canvas Mirrors",
+  "id": "48",
+  "price": "3003",
+  "author": "jazzby",
+  "authorlogo" : "../Artwork/product-owner/jazzby.png",
+  "authorid" : "3",
+  "thumbnail": "MirrorArt (48).jpg"
+},
+
+
+"item49": {
+  "title": " Radiant Reflections Art",
+  "id": "49",
+  "price": "2022",
+  "author": "gozzby",
+  "authorlogo" : "../Artwork/product-owner/gozzby.png",
+  "authorid" : "0",
+  "thumbnail": "MirrorArt (49).jpg"
+},
+
+
+"item50": {
+  "title": "undefined",
+  "id": "50",
+  "price": "4685",
+  "author": "rengvo",
+  "authorlogo" : "../Artwork/product-owner/rengvo.png",
+  "authorid" : "1",
+  "thumbnail": "MirrorArt (50).jpg"
+}
+}

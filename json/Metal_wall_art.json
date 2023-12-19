@@ -1,0 +1,502 @@
+{
+
+  "item1": {
+    "title": "Inkwell Intrigue: Contemporary Noir Metal Masterpiece",
+    "id": "1",
+    "price": "500",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "metal_wall_art (1).jpg"
+  },
+
+  "item2": {
+    "title": "Obsidian Opulence: Blackened Steel Wall Sculpture",
+    "id": "2",
+    "price": "2015",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (2).jpg"
+  },
+
+  "item3": {
+    "title": "Shadowplay Symmetry: Chic Metal Wall Decor",
+    "id": "3",
+    "price": "951",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (3).jpg"
+  },
+
+  "item4": {
+    "title": "Onyx Overture: Sleek Black Steel Artistry",
+    "id": "4",
+    "price": "1258",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (4).jpg"
+  },
+
+  "item5": {
+    "title": "Nebula Noir: Futuristic Black Metal Wall Ensemble",
+    "id": "5",
+    "price": "2006",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (5).jpg"
+  },
+
+  "item6": {
+    "title": "Midnight Mirage: Cutting-edge Black Steel Mural",
+    "id": "6",
+    "price": "4907",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (6).jpg"
+  },
+
+  "item7": {
+    "title": "Abyssal Allure: Minimalist Blackened Steel Wall Statement",
+    "id": "7",
+    "price": "2648",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (7).jpg"
+  },
+
+  "item8": {
+    "title": "Zenith Zen: Modern Zen Black Steel Wall Composition",
+    "id": "8",
+    "price": "4522",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (8).jpg"
+  },
+
+  "item9": {
+    "title": "Stealth Symphony: Black Steel Musical Wall Art",
+    "id": "9",
+    "price": "562",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (9).jpg"
+  },
+
+  "item10": {
+    "title": "Panthera Pixel: Pixelated Black Steel Art Panel",
+    "id": "10",
+    "price": "1578",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (10).jpg"
+  },
+
+  "item11": {
+    "title": "Infinite Iron: Black Steel Infinite Loop Wall Sculpture",
+    "id": "11",
+    "price": "1580",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (11).jpg"
+  },
+
+  "item12": {
+    "title": "Lunar Lattice: Celestial Black Steel Wall Tapestry",
+    "id": "12",
+    "price": "1458",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (12).jpg"
+  },
+
+  "item13": {
+    "title": "Graphite Grove: Abstract Blackened Steel Wall Grove",
+    "id": "13",
+    "price": "1205",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (13).jpg"
+  },
+
+  "item14": {
+    "title": "Vortex Vista: Dynamic Black Steel Wall Vision",
+    "id": "14",
+    "price": "3678",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (14).jpg"
+  },
+
+  "item15": {
+    "title": "Onyx Oasis: Oasis-inspired Black Steel Wall Art",
+    "id": "15",
+    "price": "564",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (15).jpg"
+  },
+
+  "item16": {
+    "title": "Urban Umbra: Contemporary Blackened Steel Wall Canopy",
+    "id": "16",
+    "price": "3475",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (16).jpg"
+  },
+
+  "item17": {
+    "title": "Mystic Monochrome: Enigmatic Black Steel Wall Installation",
+    "id": "17",
+    "price": "3826",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (17).jpg"
+  },
+
+  "item18": {
+    "title": "Nocturnal Nexus: Black Steel Geometric Wall Nexus",
+    "id": "18",
+    "price": "1679",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "metal_wall_art (18).jpg"
+  },
+
+  "item19": {
+    "title": "Ethereal Ebony: Ethereal Black Steel Wall Creation",
+    "id": "19",
+    "price": "1222",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (19).jpg"
+  },
+
+  "item20": {
+    "title": "Quantum Quill: Black Steel Calligraphy Wall Sculpture",
+    "id": "20",
+    "price": "2999",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (20).jpg"
+  },
+
+  "item21": {
+    "title": "Zen Zephyr: Tranquil Blackened Steel Wind Wall Art",
+    "id": "21",
+    "price": "2399",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (21).jpg"
+  },
+
+  "item22": {
+    "title": "Nova Noir: Stellar Black Steel Galaxy Wall Ensemble",
+    "id": "22",
+    "price": "2855",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (22).jpg"
+  },
+
+  "item23": {
+    "title": "Astral Alchemy: Black Steel Celestial Wall Composition",
+    "id": "23",
+    "price": "2597",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "metal_wall_art (23).jpg"
+  },
+
+  "item24": {
+    "title": "Labyrinth Lumina: Illuminated Black Steel Wall Maze",
+    "id": "24",
+    "price": "2469",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "metal_wall_art (24).jpg"
+  },
+
+  "item25": {
+    "title": "Cynosure Canvas: Blackened Steel Centerpiece Wall Art",
+    "id": "25",
+    "price": "3003",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (25).jpg"
+  },
+
+  "item26": {
+    "title": "Silhouette Sonata: Black Steel Musical Note Wall Harmony",
+    "id": "26",
+    "price": "2143",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "metal_wall_art (26).jpg"
+  },
+
+  "item27": {
+    "title": "Monolith Muse: Contemporary Black Steel Wall Monolith",
+    "id": "27",
+    "price": "605",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (27).jpg"
+  },
+
+  "item28": {
+    "title": "Sable Serenity: Black Steel Serene Landscape Wall Art",
+    "id": "28",
+    "price": "2204",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (28).jpg"
+  },
+
+  "item29": {
+    "title": "Cerulean Cipher: Blue-Hued Black Steel Wall Code",
+    "id": "29",
+    "price": "3666",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (29).jpg"
+  },
+
+  "item30": {
+    "title": "Tenebrous Tapestry: Mysterious Black Steel Wall Weave",
+    "id": "30",
+    "price": "609",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (30).jpg"
+  },
+
+  "item31": {
+    "title": "Pinnacle Prism: Angular Blackened Steel Wall Sculpture",
+    "id": "31",
+    "price": "5271",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (31).jpg"
+  },
+
+  "item32": {
+    "title": "Equinox Echo: Timeless Black Steel Wall Echo",
+    "id": "32",
+    "price": "5424",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (32).jpg"
+  },
+
+  "item33": {
+    "title": "Ephemeral Ebony: Black Steel Ethereal Wall Creation",
+    "id": "33",
+    "price": "2596",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (33).jpg"
+  },
+
+  "item34": {
+    "title": "Magnetic Monochrome: Magnetized Black Steel Wall Art",
+    "id": "34",
+    "price": "4194",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (34).jpg"
+  },
+
+  "item35": {
+    "title": "Celestial Cipher: Cosmic Blackened Steel Wall Code",
+    "id": "35",
+    "price": "550",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (35).jpg"
+  },
+
+  "item36": {
+    "title": "Azure Aether: Blue-Tinged Black Steel Wall Atmosphere",
+    "id": "36",
+    "price": "693",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (36).jpg"
+  },
+
+  "item37": {
+    "title": "Oblivion Odyssey: Black Steel Wall Journey",
+    "id": "37",
+    "price": "5018",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (37).jpg"
+  },
+
+  "item38": {
+    "title": "Whispering Wires: Black Steel Wireframe Wall Art",
+    "id": "38",
+    "price": "3299",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (38).jpg"
+  },
+
+  "item39": {
+    "title": "Solaris Spectrum: Radiant Black Steel Wall Spectrum",
+    "id": "39",
+    "price": "3283",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "metal_wall_art (39).jpg"
+  },
+
+  "item40": {
+    "title": "Mystique Matrix: Enigmatic Black Steel Wall Grid",
+    "id": "40",
+    "price": "579",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (40).jpg"
+  },
+
+  "item41": {
+    "title": "Eclipse Embrace: Contemporary Black Steel Wall Embrace",
+    "id": "41",
+    "price": "2573",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (41).jpg"
+  },
+
+  "item42": {
+    "title": "Lustrous Lattice: Shimmering Blackened Steel Wall Framework",
+    "id": "42",
+    "price": "2095",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "metal_wall_art (42).jpg"
+  },
+
+  "item43": {
+    "title": "Shadow Sentinel: Guardian-inspired Black Steel Wall Art",
+    "id": "43",
+    "price": "5249",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (43).jpg"
+  },
+
+  "item44": {
+    "title": "Aurelian Arc: Timeless Black Steel Archway Wall Sculpture",
+    "id": "44",
+    "price": "5040",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "metal_wall_art (44).jpg"
+  },
+
+  "item45": {
+    "title": "Stellar Stealth: Darkened Steel Stellar Wall Art",
+    "id": "45",
+    "price": "1391",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (45).jpg"
+  },
+
+  "item46": {
+    "title": "Inkwell Infusion: Black Steel Ink-Inspired Wall Ensemble",
+    "id": "46",
+    "price": "578",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "metal_wall_art (46).jpg"
+  },
+
+  "item47": {
+    "title": "Harmonic Hues: Melodic Blackened Steel Wall Palette",
+    "id": "47",
+    "price": "1524",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "metal_wall_art (47).jpg"
+  },
+
+  "item48": {
+    "title": "Luminous Link: Radiant Black Steel Chain Wall Art",
+    "id": "48",
+    "price": "3178",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "metal_wall_art (48).jpg"
+  },
+
+  "item49": {
+    "title": "Penumbral Pulse: Dynamic Black Steel Wall Pulse",
+    "id": "49",
+    "price": "1549",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "metal_wall_art (49).jpg"
+  },
+
+  "item50": {
+    "title": "Onyx Overture: Sleek Black Steel Artistry",
+    "id": "50",
+    "price": "1056",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "metal_wall_art (50).jpg"
+  }
+}

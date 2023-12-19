@@ -1,0 +1,195 @@
+@import "../components/font";
+@import "../components/variables";
+@import "../components/map";
+@import "../components/elements";
+@import "../components/functions";
+@import "../components/resets";
+
+@import "../components/navbar";
+@import "../components/navbar-skin";
+@import "../components/dropdown";
+@import "../components/btn-view";
+@import "../components/footer";
+
+body {
+  background-image: url(../Artwork/decor/post-gradient.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.sign-in {
+  position: fixed;
+  top: 6.5%;
+  left: 30%;
+  width: 26.6rem;
+  background-color: $dark_gray;
+  margin-top: 60px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+
+  form {
+    width: 75%;
+    @include flexCenter(column);
+    border-radius: 12px;
+    margin: 0 auto;
+
+    label:nth-child(1) {
+      margin-top: 30px;
+    }
+
+    h3 {
+      @include flexCenter(row);
+      align-items: end;
+      font-family: Inter;
+      font-size: 18px;
+      color: $light_gray;
+      font-weight: fw(bold);
+      text-transform: uppercase;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      height: 40px;
+    }
+
+    hr {
+      width: 100%;
+      border-bottom: 3px solid $silver;
+      height: 5px;
+      opacity: 0.5;
+      border-radius: 3px;
+      margin-bottom: 20px;
+    }
+    label {
+      @include flexCenter(row);
+      justify-content: left;
+      width: 100%;
+      font-family: Poppins;
+      font-weight: fw(regular);
+      font-size: 14px;
+      color: $ash;
+      text-transform: uppercase;
+    }
+
+    input {
+      @extend .input-style;
+      text-indent: 6px;
+    }
+
+    // this nth-child target message box
+    // for some reason 10 number targets
+    // essage box ?? <-- bug
+    textarea {
+      @extend input;
+      text-indent: 5px;
+      padding-top: 5px;
+      height: 160px;
+      resize: vertical;
+    }
+
+    .sign-in__submit {
+      @extend .button-red;
+      color: white;
+      font-size: 14px;
+      margin-top: 10px;
+      background-color: black;
+      border-radius: 6px;
+    }
+    .sign-in__submit:focus {
+      @extend .button-red;
+      color: $dark_gray;
+      font-size: 14px;
+      margin-top: 10px;
+      background-color: $off_white;
+      border-radius: 6px;
+    }
+    .sign-in__submit:hover {
+      @extend .button-red;
+      font-size: 14px;
+      margin-top: 10px;
+      background-color: $dark_gray;
+      border-radius: 6px;
+    }
+  }
+
+  div {
+    margin-top: 10px;
+    @include flexCenter(row);
+    background-color: $white;
+    border: 1px solid darken($color: $off_white, $amount: 7);
+    justify-content: left;
+    gap: 10px;
+    width: 100%;
+    height: 50px;
+    border-radius: 8px;
+    input {
+      @include flexCenter(row);
+      height: 27px;
+      width: 27px;
+      border-radius: 3px;
+      margin: auto;
+      margin-right: 0;
+      margin-left: 1.5rem;
+      border: 1px solid darken($color: $off_white, $amount: 7);
+    }
+    p {
+      @include flexCenter(row);
+      font-family: Poppins;
+      font-size: 14px;
+      margin: auto;
+      margin-left: 0px;
+      color: $light_gray;
+      font-weight: fw(regular);
+    }
+  }
+}
+
+.sign-in__checkbox {
+  @include flexCenter(row);
+  justify-content: space-between;
+  width: 100%;
+  height: 45px;
+
+  div {
+    background-color: transparent;
+    border: none;
+    input {
+      height: 30px;
+      background-color: $white;
+      border: none;
+      border-radius: 7px;
+    }
+
+    p {
+      width: 100%;
+      font-family: Inter;
+      font-size: 10px;
+      color: $white;
+      font-weight: fw(regular);
+    }
+  }
+
+  .sign-in__tag {
+    width: 100%;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: fw(regular);
+    color: $light_gray;
+  }
+
+  .sign-in__social-media {
+    @include flexCenter(row);
+    width: 100%;
+    height: 30px;
+
+  }
+  .sign-in__social-media--facebook {
+    background-color: $blue;
+
+  }
+  .sign-in__social-media--google {
+    background-color: $orange;
+  }
+  .sign-in__social-media--twitter {
+    background-color: $sky;
+  }
+}

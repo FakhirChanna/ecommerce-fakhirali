@@ -1,0 +1,562 @@
+{
+    
+    "item0": {
+        "title": "Frame Harmony",
+        "id": "0",
+        "price": "NaN",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (0).jpg"
+      },
+    
+    
+    "item1": {
+        "title": "Picture Perfect Moments",
+        "id": "1",
+        "price": "1824",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (1).jpg"
+      },
+    
+    
+    "item2": {
+        "title": "Artistry Frames",
+        "id": "2",
+        "price": "5139",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (2).jpg"
+      },
+    
+    
+    "item3": {
+        "title": "Timeless Treasures Gallery",
+        "id": "3",
+        "price": "4651",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (3).jpg"
+      },
+    
+    
+    "item4": {
+        "title": "Visionary Vignettes",
+        "id": "4",
+        "price": "4587",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (4).jpg"
+      },
+    
+    
+    "item5": {
+        "title": "Captured Canvases",
+        "id": "5",
+        "price": "4185",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (5).jpg"
+      },
+    
+    
+    "item6": {
+        "title": "Elegance Exhibits",
+        "id": "6",
+        "price": "955",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (6).jpg"
+      },
+    
+    
+    "item7": {
+        "title": "Celestial Snapshots",
+        "id": "7",
+        "price": "1695",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (7).jpg"
+      },
+    
+    
+    "item8": {
+        "title": "Whimsical Windows",
+        "id": "8",
+        "price": "5276",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (8).jpg"
+      },
+    
+    
+    "item9": {
+        "title": "Enchantique Edges",
+        "id": "9",
+        "price": "4584",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (9).jpg"
+      },
+    
+    
+    "item10": {
+        "title": "Gilded Glimpses",
+        "id": "10",
+        "price": "3660",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (10).jpg"
+      },
+    
+    
+    "item11": {
+        "title": "Infinite Impressions Frames",
+        "id": "11",
+        "price": "2057",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (11).jpg"
+      },
+    
+    
+    "item12": {
+        "title": "Harmony Hangings",
+        "id": "12",
+        "price": "2409",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (12).jpg"
+      },
+    
+    
+    "item13": {
+        "title": "Ethereal Edges Gallery",
+        "id": "13",
+        "price": "1294",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (13).jpg"
+      },
+    
+    
+    "item14": {
+        "title": "Radiant Reliefs Frames",
+        "id": "14",
+        "price": "1804",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (14).jpg"
+      },
+    
+    
+    "item15": {
+        "title": "Grandeur Galleries",
+        "id": "15",
+        "price": "877",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (15).jpg"
+      },
+    
+    
+    "item16": {
+        "title": "Blissful Borders",
+        "id": "16",
+        "price": "3750",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (16).jpg"
+      },
+    
+    
+    "item17": {
+        "title": "Serenity Snapshots",
+        "id": "17",
+        "price": "4955",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (17).jpg"
+      },
+    
+    
+    "item18": {
+        "title": "Pinnacle Portraits",
+        "id": "18",
+        "price": "858",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (18).jpg"
+      },
+    
+    
+    "item19": {
+        "title": "Opulent Overlays",
+        "id": "19",
+        "price": "3149",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (19).jpg"
+      },
+    
+    
+    "item20": {
+        "title": "LuminaLuxe Frames",
+        "id": "20",
+        "price": "5369",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (20).jpg"
+      },
+    
+    
+    "item21": {
+        "title": "Urban Utopia Art",
+        "id": "21",
+        "price": "524",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (21).jpg"
+      },
+    
+    
+    "item22": {
+        "title": "Mosaic Memories",
+        "id": "22",
+        "price": "2152",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (22).jpg"
+      },
+    
+    
+    "item23": {
+        "title": "ZenZones Frames",
+        "id": "23",
+        "price": "4086",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (23).jpg"
+      },
+    
+    
+    "item24": {
+        "title": "Celestial Canvases",
+        "id": "24",
+        "price": "2885",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (24).jpg"
+      },
+    
+    
+    "item25": {
+        "title": "Enigma Essence",
+        "id": "25",
+        "price": "2193",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (25).jpg"
+      },
+    
+    
+    "item26": {
+        "title": "Dream Drapes Displays",
+        "id": "26",
+        "price": "5238",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (26).jpg"
+      },
+    
+    
+    "item27": {
+        "title": "Velvet Vistas Frames",
+        "id": "27",
+        "price": "4063",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (27).jpg"
+      },
+    
+    
+    "item28": {
+        "title": "Artisan Allegory Frames",
+        "id": "28",
+        "price": "3810",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (28).jpg"
+      },
+    
+    
+    "item29": {
+        "title": "Whirlwind Wall Art",
+        "id": "29",
+        "price": "3152",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (29).jpg"
+      },
+    
+    
+    "item30": {
+        "title": "Nimbus Nostalgia",
+        "id": "30",
+        "price": "1802",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (30).jpg"
+      },
+    
+    
+    "item31": {
+        "title": "KaleidoKanvas Frames",
+        "id": "31",
+        "price": "2484",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (31).jpg"
+      },
+    
+    
+    "item32": {
+        "title": "Oasis Overlays Art",
+        "id": "32",
+        "price": "3513",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (32).jpg"
+      },
+    
+    
+    "item33": {
+        "title": "Chroma Capture",
+        "id": "33",
+        "price": "2042",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (33).jpg"
+      },
+    
+    
+    "item34": {
+        "title": "Velvet Verve Portraits",
+        "id": "34",
+        "price": "957",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (34).jpg"
+      },
+    
+    
+    "item35": {
+        "title": "Symphony Snapshots",
+        "id": "35",
+        "price": "3672",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (35).jpg"
+      },
+    
+    
+    "item36": {
+        "title": "Regal Reflections",
+        "id": "36",
+        "price": "1882",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (36).jpg"
+      },
+    
+    
+    "item37": {
+        "title": "Tranquil Tapestries Art",
+        "id": "37",
+        "price": "1899",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (37).jpg"
+      },
+    
+    
+    "item38": {
+        "title": "Luminous Layers Frames",
+        "id": "38",
+        "price": "1716",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (38).jpg"
+      },
+    
+    
+    "item39": {
+        "title": "WhisperWaves Wall Art",
+        "id": "39",
+        "price": "1093",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (39).jpg"
+      },
+    
+    
+    "item40": {
+        "title": "Radiance Ripples Frames",
+        "id": "40",
+        "price": "4067",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (40).jpg"
+      },
+    
+    
+    "item41": {
+        "title": "Elysian Emboss Portraits",
+        "id": "41",
+        "price": "4197",
+        "author": "jazzby",
+        "authorlogo" : "../Artwork/product-owner/jazzby.png",
+        "authorid" : "3",
+        "thumbnail": "PhotoFrameArt (41).jpg"
+      },
+    
+    
+    "item42": {
+        "title": "Cascade Captures",
+        "id": "42",
+        "price": "3411",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (42).jpg"
+      },
+    
+    
+    "item43": {
+        "title": "ZenithZones Artistry",
+        "id": "43",
+        "price": "725",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (43).jpg"
+      },
+    
+    
+    "item44": {
+        "title": "Posh Panels Portraits",
+        "id": "44",
+        "price": "3284",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (44).jpg"
+      },
+    
+    
+    "item45": {
+        "title": "Serendipity Snapshots",
+        "id": "45",
+        "price": "2888",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (45).jpg"
+      },
+    
+    
+    "item46": {
+        "title": "Artisan Allegory Displays",
+        "id": "46",
+        "price": "3166",
+        "author": "NOZTI",
+        "authorlogo" : "../Artwork/product-owner/NOZTI.png",
+        "authorid" : "2",
+        "thumbnail": "PhotoFrameArt (46).jpg"
+      },
+    
+    
+    "item47": {
+        "title": "VelvetVerve Visions",
+        "id": "47",
+        "price": "3535",
+        "author": "gozzby",
+        "authorlogo" : "../Artwork/product-owner/gozzby.png",
+        "authorid" : "0",
+        "thumbnail": "PhotoFrameArt (47).jpg"
+      },
+    
+    
+    "item48": {
+        "title": "Radiant Reverie Frames",
+        "id": "48",
+        "price": "4958",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (48).jpg"
+      },
+    
+    
+    "item49": {
+        "title": "Artistry Assemblage",
+        "id": "49",
+        "price": "1755",
+        "author": "rengvo",
+        "authorlogo" : "../Artwork/product-owner/rengvo.png",
+        "authorid" : "1",
+        "thumbnail": "PhotoFrameArt (49).jpg"
+      },
+    
+    
+    "item50": {
+        "title": "undefined",
+        "id": "50",
+        "price": "3807",
+        "author": "designer touch",
+        "authorlogo" : "../Artwork/product-owner/designer-touch.png",
+        "authorid" : "4",
+        "thumbnail": "PhotoFrameArt (50).jpg"
+      }
+}

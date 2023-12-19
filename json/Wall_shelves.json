@@ -1,0 +1,511 @@
+{
+  "item0": {
+    "title": "Skyline Shelves",
+    "id": "0",
+    "price": "NaN",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (0).jpg"
+  },
+
+  "item1": {
+    "title": "UrbanCraft Cubes",
+    "id": "1",
+    "price": "4111",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (1).jpg"
+  },
+
+  "item2": {
+    "title": "Floating Finesse",
+    "id": "2",
+    "price": "2962",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (2).jpg"
+  },
+
+  "item3": {
+    "title": "ZenithZones Shelves",
+    "id": "3",
+    "price": "2278",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (3).jpg"
+  },
+
+  "item4": {
+    "title": "Harmony Hangings",
+    "id": "4",
+    "price": "1961",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (4).jpg"
+  },
+
+  "item5": {
+    "title": "CubicContours",
+    "id": "5",
+    "price": "2926",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (5).jpg"
+  },
+
+  "item6": {
+    "title": "WallVista Vessels",
+    "id": "6",
+    "price": "788",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (6).jpg"
+  },
+
+  "item7": {
+    "title": "Serenity Shelving",
+    "id": "7",
+    "price": "3767",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (7).jpg"
+  },
+
+  "item8": {
+    "title": "Elegance Edges",
+    "id": "8",
+    "price": "705",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (8).jpg"
+  },
+
+  "item9": {
+    "title": "Infinite Inlays",
+    "id": "9",
+    "price": "1032",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (9).jpg"
+  },
+
+  "item10": {
+    "title": "Nimbus Niches",
+    "id": "10",
+    "price": "1762",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (10).jpg"
+  },
+
+  "item11": {
+    "title": "Mosaic Mounts",
+    "id": "11",
+    "price": "2058",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (11).jpg"
+  },
+
+  "item12": {
+    "title": "Radiant Racks",
+    "id": "12",
+    "price": "3949",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (12).jpg"
+  },
+
+  "item13": {
+    "title": "Symmetry Shelves",
+    "id": "13",
+    "price": "3847",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (13).jpg"
+  },
+
+  "item14": {
+    "title": "Luminous Ledges",
+    "id": "14",
+    "price": "3580",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (14).jpg"
+  },
+
+  "item15": {
+    "title": "Celestial Coves",
+    "id": "15",
+    "price": "1927",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (15).jpg"
+  },
+
+  "item16": {
+    "title": "Enchanted Embellish",
+    "id": "16",
+    "price": "4404",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (16).jpg"
+  },
+
+  "item17": {
+    "title": "Pinnacle Planks",
+    "id": "17",
+    "price": "3627",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (17).jpg"
+  },
+
+  "item18": {
+    "title": "Artisan Alcoves",
+    "id": "18",
+    "price": "2540",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (18).jpg"
+  },
+
+  "item19": {
+    "title": "Essence Embellishments",
+    "id": "19",
+    "price": "4397",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (19).jpg"
+  },
+
+  "item20": {
+    "title": "WhisperWaves Wall Shelves",
+    "id": "20",
+    "price": "595",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (20).jpg"
+  },
+
+  "item21": {
+    "title": "Posh Perches",
+    "id": "21",
+    "price": "3263",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (21).jpg"
+  },
+
+  "item22": {
+    "title": "Ethereal Etagères",
+    "id": "22",
+    "price": "2895",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (22).jpg"
+  },
+
+  "item23": {
+    "title": "Velvet Vantage",
+    "id": "23",
+    "price": "2026",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (23).jpg"
+  },
+
+  "item24": {
+    "title": "Tranquil Trims",
+    "id": "24",
+    "price": "4422",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (24).jpg"
+  },
+
+  "item25": {
+    "title": "Grandeur Grids",
+    "id": "25",
+    "price": "3826",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (25).jpg"
+  },
+
+  "item26": {
+    "title": "Oasis Outlines",
+    "id": "26",
+    "price": "1317",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (26).jpg"
+  },
+
+  "item27": {
+    "title": "Splendor Shelves",
+    "id": "27",
+    "price": "4338",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (27).jpg"
+  },
+
+  "item28": {
+    "title": "Cascade Cabinets",
+    "id": "28",
+    "price": "1642",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (28).jpg"
+  },
+
+  "item29": {
+    "title": "Elysian Emboss",
+    "id": "29",
+    "price": "2498",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (29).jpg"
+  },
+
+  "item30": {
+    "title": "Enigma Edges",
+    "id": "30",
+    "price": "1300",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (30).jpg"
+  },
+
+  "item31": {
+    "title": "Velvet Vistas",
+    "id": "31",
+    "price": "4566",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (31).jpg"
+  },
+
+  "item32": {
+    "title": "ZenZones Wall Mounts",
+    "id": "32",
+    "price": "3633",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (32).jpg"
+  },
+
+  "item33": {
+    "title": "Ecliptic Elegance",
+    "id": "33",
+    "price": "1770",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (33).jpg"
+  },
+
+  "item34": {
+    "title": "Regal Racks",
+    "id": "34",
+    "price": "1834",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (34).jpg"
+  },
+
+  "item35": {
+    "title": "Visionary Vignettes",
+    "id": "35",
+    "price": "2715",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (35).jpg"
+  },
+
+  "item36": {
+    "title": "Silhouette Shelves",
+    "id": "36",
+    "price": "2011",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (36).jpg"
+  },
+
+  "item37": {
+    "title": "ChicCrest Crates",
+    "id": "37",
+    "price": "4987",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (37).jpg"
+  },
+
+  "item38": {
+    "title": "Harmony Hangers",
+    "id": "38",
+    "price": "3114",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (38).jpg"
+  },
+
+  "item39": {
+    "title": "Ethereal Etageres",
+    "id": "39",
+    "price": "2482",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (39).jpg"
+  },
+
+  "item40": {
+    "title": "Whimsy Wall Racks",
+    "id": "40",
+    "price": "3407",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (40).jpg"
+  },
+
+  "item41": {
+    "title": "Uptown Units",
+    "id": "41",
+    "price": "3410",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (41).jpg"
+  },
+
+  "item42": {
+    "title": "Infinite Impressions Shelves",
+    "id": "42",
+    "price": "3678",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (42).jpg"
+  },
+
+  "item43": {
+    "title": "Blissful Brackets",
+    "id": "43",
+    "price": "4775",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (43).jpg"
+  },
+
+  "item44": {
+    "title": "Cascade Crests",
+    "id": "44",
+    "price": "1421",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallShelve (44).jpg"
+  },
+
+  "item45": {
+    "title": "UrbanUtopia Shelves",
+    "id": "45",
+    "price": "4523",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (45).jpg"
+  },
+
+  "item46": {
+    "title": "Enchantique Edges",
+    "id": "46",
+    "price": "4368",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallShelve (46).jpg"
+  },
+
+  "item47": {
+    "title": "Nimbus Niches",
+    "id": "47",
+    "price": "1495",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (47).jpg"
+  },
+
+  "item48": {
+    "title": "VelvetVerve Vessels",
+    "id": "48",
+    "price": "4659",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallShelve (48).jpg"
+  },
+
+  "item49": {
+    "title": "Timeless Trims",
+    "id": "49",
+    "price": "3680",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallShelve (49).jpg"
+  },
+
+  "item50": {
+    "title": "undefined",
+    "id": "50",
+    "price": "4572",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallShelve (50).jpg"
+  }
+}

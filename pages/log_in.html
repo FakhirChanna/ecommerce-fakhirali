@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang=en>
+<head>
+<meta charset=UTF-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Sign in</title>
+<link rel=stylesheet href=../styles/log_in.css>
+</head>
+<style></style>
+<body>
+<section class=page_navbar>
+<div class=page_navbar__bottom>
+<div class=page_navbar__bottom__link>
+<nav>
+<ul>
+<a href=../index.html>
+<li class=page_navbar__bottom__link__item>HOME</li>
+</a>
+<a href=#>
+<li class=page_navbar__bottom__link__item>ABOUT US</li>
+</a>
+<a href=./contact-me.html>
+<li class=page_navbar__bottom__link__item>CONTACT US</li>
+</a>
+<a>
+<main class=dropdown-menu id=dropdown-menu>
+<button id=dropdown-button onclick=toggleDropdownMenu()>
+<span class=material-symbols-outlined>
+SHOP
+</span>
+<span id=chevron class="chevron material-symbols-outlined">
+</span>
+</button>
+<section id=main-menu class=main-menu>
+<a href=/pages/metal_wall_art/page_1.html>
+<button>
+Metal wall art
+</button>
+</a>
+<a href=/pages/Wall_papers/page_1.html>
+<button>
+Wall papers
+</button>
+</a>
+<a href=/pages/Photo_frame_art/page_1.html>
+<button>
+Photo frame art
+</button>
+</a>
+<a href=/pages/Mirror_art/page_1.html>
+<button>
+Mirror art
+</button>
+</a>
+<a href=/pages/Wall_shelves/page_1.html>
+<button>
+Wall shelves
+</button>
+</a>
+</section>
+</main>
+</a>
+</ul>
+</nav>
+</div>
+<div class=page_navbar__bottom__input>
+<div class=page_navbar__bottom__input__form>
+<form action=#>
+<input placeholder="Search here?">
+</form>
+</div>
+<div class=page_navbar__bottom__input__signin>
+<a href=./sign_in.html> <button id=logInControl>SIGN UP</button></a>
+<a href=./log_in.html> <button id=logInUser>LOG IN</button></a>
+</div>
+<div class=page_navbar__bottom__input__userbox>
+<span>
+<img src=# alt="">
+</span>
+<span>
+<button>User Settings</button>
+</span>
+</div>
+</div>
+</div>
+</section>
+<main class=sign-in>
+<form action="" method=POST>
+<h3>Send Message</h3>
+<label for=name>NAME</label>
+<input type=name placeholder="your name">
+<label for=email>Email</label>
+<input type=email placeholder="your email">
+<label for="">Age</label>
+<input type="" placeholder="your age">
+<label for=password>Password</label>
+<input type=password placeholder="your password">
+<label for=password>Confirm Password</label>
+<input type=password placeholder="your password">
+<section class=sign-in__checkbox>
+<div>
+<input type=checkbox>
+<p>I agree with your terms & conditions</p>
+</div>
+</section>
+<input class=sign-in__submit value=Send type=submit>
+</form>
+</main>
+<script src=../js/dropdown.js defer></script>
+</body>
+</html>

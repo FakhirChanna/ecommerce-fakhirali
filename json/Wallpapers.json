@@ -1,0 +1,511 @@
+{
+  "item0": {
+    "title": "WallVista",
+    "id": "0",
+    "price": "NaN",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (0).jpg"
+  },
+
+  "item1": {
+    "title": "DecorGlow",
+    "id": "1",
+    "price": "2853",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (1).jpg"
+  },
+
+  "item2": {
+    "title": "ArtistryWalls",
+    "id": "2",
+    "price": "4565",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (2).jpg"
+  },
+
+  "item3": {
+    "title": "ChromaCanvas",
+    "id": "3",
+    "price": "1634",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (3).jpg"
+  },
+
+  "item4": {
+    "title": "Elegance Murals",
+    "id": "4",
+    "price": "5200",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (4).jpg"
+  },
+
+  "item5": {
+    "title": "Infinite Impressions",
+    "id": "5",
+    "price": "734",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (5).jpg"
+  },
+
+  "item6": {
+    "title": "Mirage Murals",
+    "id": "6",
+    "price": "2136",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (6).jpg"
+  },
+
+  "item7": {
+    "title": "Opulent Ombre",
+    "id": "7",
+    "price": "989",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (7).jpg"
+  },
+
+  "item8": {
+    "title": "LuminaLuxe",
+    "id": "8",
+    "price": "4696",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (8).jpg"
+  },
+
+  "item9": {
+    "title": "Serenity Scrolls",
+    "id": "9",
+    "price": "4274",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (9).jpg"
+  },
+
+  "item10": {
+    "title": "EnchantWalls",
+    "id": "10",
+    "price": "4982",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (10).jpg"
+  },
+
+  "item11": {
+    "title": "Celestial Coverings",
+    "id": "11",
+    "price": "726",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (11).jpg"
+  },
+
+  "item12": {
+    "title": "Harmony Haven",
+    "id": "12",
+    "price": "2449",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (12).jpg"
+  },
+
+  "item13": {
+    "title": "DreamDrapes",
+    "id": "13",
+    "price": "3867",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (13).jpg"
+  },
+
+  "item14": {
+    "title": "Radiant Reliefs",
+    "id": "14",
+    "price": "619",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (14).jpg"
+  },
+
+  "item15": {
+    "title": "Mystique Murals",
+    "id": "15",
+    "price": "3096",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (15).jpg"
+  },
+
+  "item16": {
+    "title": "Velvet Vignettes",
+    "id": "16",
+    "price": "1253",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (16).jpg"
+  },
+
+  "item17": {
+    "title": "Grandeur Graphics",
+    "id": "17",
+    "price": "4600",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (17).jpg"
+  },
+
+  "item18": {
+    "title": "Luminous Layers",
+    "id": "18",
+    "price": "5171",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (18).jpg"
+  },
+
+  "item19": {
+    "title": "Ethereal Elegance",
+    "id": "19",
+    "price": "4316",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (19).jpg"
+  },
+
+  "item20": {
+    "title": "Posh Patterns",
+    "id": "20",
+    "price": "5265",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (20).jpg"
+  },
+
+  "item21": {
+    "title": "Enigma Essence",
+    "id": "21",
+    "price": "1838",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (21).jpg"
+  },
+
+  "item22": {
+    "title": "Tranquil Tapestries",
+    "id": "22",
+    "price": "5047",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (22).jpg"
+  },
+
+  "item23": {
+    "title": "GildedGlow",
+    "id": "23",
+    "price": "5200",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (23).jpg"
+  },
+
+  "item24": {
+    "title": "Whimsy Walls",
+    "id": "24",
+    "price": "1637",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (24).jpg"
+  },
+
+  "item25": {
+    "title": "Enchanted Embellishments",
+    "id": "25",
+    "price": "703",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (25).jpg"
+  },
+
+  "item26": {
+    "title": "Velvet Vistas",
+    "id": "26",
+    "price": "3968",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (26).jpg"
+  },
+
+  "item27": {
+    "title": "Pinnacle Patterns",
+    "id": "27",
+    "price": "5325",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (27).jpg"
+  },
+
+  "item28": {
+    "title": "Blissful Borders",
+    "id": "28",
+    "price": "710",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (28).jpg"
+  },
+
+  "item29": {
+    "title": "Radiance Ripples",
+    "id": "29",
+    "price": "5481",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (29).jpg"
+  },
+
+  "item30": {
+    "title": "Silhouette Strokes",
+    "id": "30",
+    "price": "5459",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (30).jpg"
+  },
+
+  "item31": {
+    "title": "KaleidoKanvas",
+    "id": "31",
+    "price": "2720",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (31).jpg"
+  },
+
+  "item32": {
+    "title": "VelvetVisions",
+    "id": "32",
+    "price": "5030",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (32).jpg"
+  },
+
+  "item33": {
+    "title": "Serendipity Screens",
+    "id": "33",
+    "price": "4652",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (33).jpg"
+  },
+
+  "item34": {
+    "title": "Mystical Murmurs",
+    "id": "34",
+    "price": "1315",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (34).jpg"
+  },
+
+  "item35": {
+    "title": "Enigma Embellish",
+    "id": "35",
+    "price": "2343",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (35).jpg"
+  },
+
+  "item36": {
+    "title": "Whirlwind Wallcover",
+    "id": "36",
+    "price": "2535",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (36).jpg"
+  },
+
+  "item37": {
+    "title": "ZenZephyr",
+    "id": "37",
+    "price": "4894",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (37).jpg"
+  },
+
+  "item38": {
+    "title": "Oasis Overlays",
+    "id": "38",
+    "price": "5220",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "wallpaper (38).jpg"
+  },
+
+  "item39": {
+    "title": "VelvetVerve",
+    "id": "39",
+    "price": "4945",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (39).jpg"
+  },
+
+  "item40": {
+    "title": "EmbellishEden",
+    "id": "40",
+    "price": "4875",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (40).jpg"
+  },
+
+  "item41": {
+    "title": "Artisan Allegory",
+    "id": "41",
+    "price": "2717",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (41).jpg"
+  },
+
+  "item42": {
+    "title": "Exquisite Embroidery",
+    "id": "42",
+    "price": "5238",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (42).jpg"
+  },
+
+  "item43": {
+    "title": "Posh Panels",
+    "id": "43",
+    "price": "908",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (43).jpg"
+  },
+
+  "item44": {
+    "title": "Royal Reflections",
+    "id": "44",
+    "price": "4655",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "wallpaper (44).jpg"
+  },
+
+  "item45": {
+    "title": "Enchantique Elements",
+    "id": "45",
+    "price": "590",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (45).jpg"
+  },
+
+  "item46": {
+    "title": "Harmonic Hues",
+    "id": "46",
+    "price": "2084",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (46).jpg"
+  },
+
+  "item47": {
+    "title": "Velvet Verve",
+    "id": "47",
+    "price": "3460",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (47).jpg"
+  },
+
+  "item48": {
+    "title": "Radiant Reverie",
+    "id": "48",
+    "price": "1525",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "wallpaper (48).jpg"
+  },
+
+  "item49": {
+    "title": "Ethereal Elegance",
+    "id": "49",
+    "price": "3362",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "wallpaper (49).jpg"
+  },
+
+  "item50": {
+    "title": "undefined",
+    "id": "50",
+    "price": "4563",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "wallpaper (50).jpg"
+  }
+}

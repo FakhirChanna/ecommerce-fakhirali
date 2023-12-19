@@ -1,0 +1,511 @@
+{
+  "item0": {
+    "title": "Giraffe Grove Wall Shelves",
+    "id": "0",
+    "price": "NaN",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (0).jpg"
+  },
+
+  "item1": {
+    "title": "Tiger Trail Trays",
+    "id": "1",
+    "price": "1870",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (1).jpg"
+  },
+
+  "item2": {
+    "title": "Peacock Perch Planks",
+    "id": "2",
+    "price": "1711",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (2).jpg"
+  },
+
+  "item3": {
+    "title": "Dolphin Drift Displays",
+    "id": "3",
+    "price": "4041",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (3).jpg"
+  },
+
+  "item4": {
+    "title": "Zebra Zigzag Wall Racks",
+    "id": "4",
+    "price": "5468",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (4).jpg"
+  },
+
+  "item5": {
+    "title": "Fox Finesse Frames",
+    "id": "5",
+    "price": "3323",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (5).jpg"
+  },
+
+  "item6": {
+    "title": "Elephant Elevation Edges",
+    "id": "6",
+    "price": "2047",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallMountedAnimal (6).jpg"
+  },
+
+  "item7": {
+    "title": "Cheetah Crest Cubbies",
+    "id": "7",
+    "price": "1812",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (7).jpg"
+  },
+
+  "item8": {
+    "title": "Owl Overlook Organizers",
+    "id": "8",
+    "price": "4483",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (8).jpg"
+  },
+
+  "item9": {
+    "title": "Panther Prowess Platforms",
+    "id": "9",
+    "price": "4505",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (9).jpg"
+  },
+
+  "item10": {
+    "title": "Penguin Perch Pockets",
+    "id": "10",
+    "price": "1794",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (10).jpg"
+  },
+
+  "item11": {
+    "title": "Monkey Mane Mounts",
+    "id": "11",
+    "price": "4592",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (11).jpg"
+  },
+
+  "item12": {
+    "title": "Bear Brackets Buffet",
+    "id": "12",
+    "price": "4865",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (12).jpg"
+  },
+
+  "item13": {
+    "title": "Hummingbird Hangings",
+    "id": "13",
+    "price": "2542",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (13).jpg"
+  },
+
+  "item14": {
+    "title": "Kangaroo Cove Cubes",
+    "id": "14",
+    "price": "2209",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (14).jpg"
+  },
+
+  "item15": {
+    "title": "Snake Spiral Shelving",
+    "id": "15",
+    "price": "2667",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (15).jpg"
+  },
+
+  "item16": {
+    "title": "Octopus Odyssey Organizers",
+    "id": "16",
+    "price": "3368",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (16).jpg"
+  },
+
+  "item17": {
+    "title": "Eagle Elegance Etagères",
+    "id": "17",
+    "price": "3392",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (17).jpg"
+  },
+
+  "item18": {
+    "title": "Dragonfly Drift Dividers",
+    "id": "18",
+    "price": "585",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (18).jpg"
+  },
+
+  "item19": {
+    "title": "Koala Keepsake Kabinets",
+    "id": "19",
+    "price": "827",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (19).jpg"
+  },
+
+  "item20": {
+    "title": "Butterfly Bliss Bookshelves",
+    "id": "20",
+    "price": "3639",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (20).jpg"
+  },
+
+  "item21": {
+    "title": "Horse Haven Holders",
+    "id": "21",
+    "price": "2250",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (21).jpg"
+  },
+
+  "item22": {
+    "title": "Falcon Frame Facades",
+    "id": "22",
+    "price": "4542",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (22).jpg"
+  },
+
+  "item23": {
+    "title": "Rhino Ridge Racks",
+    "id": "23",
+    "price": "5387",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (23).jpg"
+  },
+
+  "item24": {
+    "title": "Penguin Plank Pockets",
+    "id": "24",
+    "price": "5285",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (24).jpg"
+  },
+
+  "item25": {
+    "title": "Jellyfish Jamboree Joints",
+    "id": "25",
+    "price": "2075",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (25).jpg"
+  },
+
+  "item26": {
+    "title": "Elephant Eye Etagères",
+    "id": "26",
+    "price": "5094",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (26).jpg"
+  },
+
+  "item27": {
+    "title": "Butterfly Bloom Bookshelves",
+    "id": "27",
+    "price": "1328",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (27).jpg"
+  },
+
+  "item28": {
+    "title": "Turtle Tracks Trays",
+    "id": "28",
+    "price": "1224",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (28).jpg"
+  },
+
+  "item29": {
+    "title": "Flamingo Flight Frames",
+    "id": "29",
+    "price": "2862",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (29).jpg"
+  },
+
+  "item30": {
+    "title": "Bison Bough Bookshelves",
+    "id": "30",
+    "price": "1333",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (30).jpg"
+  },
+
+  "item31": {
+    "title": "Seahorse Shelf Set",
+    "id": "31",
+    "price": "703",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (31).jpg"
+  },
+
+  "item32": {
+    "title": "Crab Claw Cabinets",
+    "id": "32",
+    "price": "625",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallMountedAnimal (32).jpg"
+  },
+
+  "item33": {
+    "title": "Parrot Perch Platforms",
+    "id": "33",
+    "price": "1889",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (33).jpg"
+  },
+
+  "item34": {
+    "title": "Kangaroo Kinetic Kabinets",
+    "id": "34",
+    "price": "5205",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (34).jpg"
+  },
+
+  "item35": {
+    "title": "Lizard Lattice Ledges",
+    "id": "35",
+    "price": "4595",
+    "author": "designer touch",
+    "authorlogo": "../Artwork/product-owner/designer-touch.png",
+    "authorid": "4",
+    "thumbnail": "WallMountedAnimal (35).jpg"
+  },
+
+  "item36": {
+    "title": "Whale Watch Wall Mounts",
+    "id": "36",
+    "price": "796",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (36).jpg"
+  },
+
+  "item37": {
+    "title": "Wolf Wilderness Wardrobe",
+    "id": "37",
+    "price": "2465",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (37).jpg"
+  },
+
+  "item38": {
+    "title": "Tortoise Traverse Trays",
+    "id": "38",
+    "price": "2541",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (38).jpg"
+  },
+
+  "item39": {
+    "title": "Cobra Coil Cabinets",
+    "id": "39",
+    "price": "668",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (39).jpg"
+  },
+
+  "item40": {
+    "title": "Gazelle Grove Grids",
+    "id": "40",
+    "price": "4992",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (40).jpg"
+  },
+
+  "item41": {
+    "title": "Penguin Parade Platforms",
+    "id": "41",
+    "price": "4829",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (41).jpg"
+  },
+
+  "item42": {
+    "title": "Snail's Shell Shelves",
+    "id": "42",
+    "price": "2934",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (42).jpg"
+  },
+
+  "item43": {
+    "title": "Bison Bough Buffet",
+    "id": "43",
+    "price": "4887",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (43).jpg"
+  },
+
+  "item44": {
+    "title": "Tiger Tail Trims",
+    "id": "44",
+    "price": "2221",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (44).jpg"
+  },
+
+  "item45": {
+    "title": "Dolphin Dive Dividers",
+    "id": "45",
+    "price": "1160",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (45).jpg"
+  },
+
+  "item46": {
+    "title": "Falcon Feather Frames",
+    "id": "46",
+    "price": "3470",
+    "author": "jazzby",
+    "authorlogo": "../Artwork/product-owner/jazzby.png",
+    "authorid": "3",
+    "thumbnail": "WallMountedAnimal (46).jpg"
+  },
+
+  "item47": {
+    "title": "Butterfly Ballet Bookshelves",
+    "id": "47",
+    "price": "1197",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (47).jpg"
+  },
+
+  "item48": {
+    "title": "Horsehair Holders",
+    "id": "48",
+    "price": "5190",
+    "author": "rengvo",
+    "authorlogo": "../Artwork/product-owner/rengvo.png",
+    "authorid": "1",
+    "thumbnail": "WallMountedAnimal (48).jpg"
+  },
+
+  "item49": {
+    "title": "Owl Overhang Organizers",
+    "id": "49",
+    "price": "4239",
+    "author": "gozzby",
+    "authorlogo": "../Artwork/product-owner/gozzby.png",
+    "authorid": "0",
+    "thumbnail": "WallMountedAnimal (49).jpg"
+  },
+
+  "item50": {
+    "title": "undefined",
+    "id": "50",
+    "price": "2337",
+    "author": "NOZTI",
+    "authorlogo": "../Artwork/product-owner/NOZTI.png",
+    "authorid": "2",
+    "thumbnail": "WallMountedAnimal (50).jpg"
+  }
+}
